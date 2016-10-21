@@ -1,0 +1,16 @@
+.ecabezado{
+	background-image :url('../imagenes/tv.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.encabezado h1{
+	font-weight: bold;
+}
+
+footer{
+	background-color:#14B76E;
+	height: 100px;
+};
+	
+
